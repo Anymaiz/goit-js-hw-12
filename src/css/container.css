@@ -4,6 +4,9 @@
   max-width: 375px;
   margin: 0 auto;
   padding: 0 16px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 /* Styles for Tablet devices */
 @media only screen and (min-width: 768px) {
